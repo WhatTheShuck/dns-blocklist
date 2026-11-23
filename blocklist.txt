@@ -1,1 +1,2 @@
 0.0.0.0 osb-ussvc.samsungqbe.com #Block samsung tv plus. No more skynews. Thank god!
+0.0.0.0 datadoghq.com
